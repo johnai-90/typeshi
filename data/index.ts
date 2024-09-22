@@ -99,7 +99,7 @@ export const projects = [
     title: "Mountain Artisan Collective Website",
     des: "Recreated the Mountain Artisan Collective website, combining GSAP animations and Three.js 3D effects..",
     img: "./p4.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+    iconLists: ["./next.svg", "./tail.svg", "./ts.svg", "./three.svg", "./gsap.svg"],
     link: "/ui.mac.com",
   },
 ];
